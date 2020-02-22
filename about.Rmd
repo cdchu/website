@@ -1,15 +1,4 @@
 ---
-title: "About.Rmd"
-author: "Chi Chu"
-date: "2/22/2020"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
----
 title: "About Me"
 ---
 
