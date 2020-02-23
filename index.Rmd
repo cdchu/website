@@ -2,4 +2,10 @@
 title: "Chi Chu"
 ---
 
-Hello, World!
+I graduated from Dartmouth College with an A.B. in 2010 with a major in
+chemistry and a minor in linguistics. I attended medical school at the 
+University of Massachusetts from 2010-2014, then completed residency training
+in internal medicine at California Pacific Medical Center in San Francisco, CA
+in 2017. I am currently a research fellow in the Division of Nephrology at
+University of California, San Francisco, where I am also a Master's student 
+in the Department of Epidemiology and Biostatistics. 
