@@ -1,3 +1,13 @@
 ---
-title: "Chi Chu"
+title: ""
 ---
+
+This site is empty.
+
+<!-- I received my A.B. from Dartmouth College in 2010 with a major in -->
+<!-- chemistry and a minor in linguistics. I attended medical school at the  -->
+<!-- University of Massachusetts from 2010-2014, then completed residency training -->
+<!-- in internal medicine at California Pacific Medical Center in San Francisco, CA -->
+<!-- in 2017. I am currently a research fellow in the Division of Nephrology at -->
+<!-- University of California, San Francisco, where I am also completing a Master's  -->
+<!-- in the Department of Epidemiology and Biostatistics.  -->

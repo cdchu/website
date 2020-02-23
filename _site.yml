@@ -1,20 +1,18 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Chi D. Chu"
+  title: ""
   left:
-    - text: "Home"
+    - text: "about"
       href: index.html
-    - text: "About Me"
-      href: about.html
       
-  right:
-    - icon: fa-github fa-lg
-      href: http://github.com/cdchu
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/cdchu
+#  right:
+#  - icon: fa-github fa-lg
+#     href: http://github.com/cdchu
+#  - icon: fa-twitter fa-lg
+#     href: https://twitter.com/cdchu
       
 output:
   html_document:
-    theme: minimal
+    theme: flatly
     css: 'styles.css'
