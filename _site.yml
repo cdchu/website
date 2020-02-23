@@ -1,9 +1,14 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "Chi D. Chu"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+      
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
