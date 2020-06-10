@@ -1,8 +1,5 @@
 ---
 title: "Rtips"
-author: "Chi Chu"
-date: "6/9/2020"
-output: html_document
 ---
 
 ```{r setup, include=FALSE}
