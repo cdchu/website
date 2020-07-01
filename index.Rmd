@@ -4,12 +4,12 @@ title: ""
 
 This site is empty.
 
-<!-- I received my A.B. from Dartmouth College in 2010 with a major in -->
-<!-- chemistry and a minor in linguistics. I attended medical school at the  -->
-<!-- University of Massachusetts from 2010-2014, then completed residency training -->
-<!-- in internal medicine at California Pacific Medical Center in San Francisco, CA -->
-<!-- in 2017. I completed clinical nephrology fellowship and research training at the University -->
-<!-- of California, San Francisco, where I also received a Master's degree in -->
-<!-- Clinical Research. I am currently a research fellow in the Division of -->
-<!-- University of California, San Francisco, where I am also completing a Master's  -->
-<!-- in the Department of Epidemiology and Biostatistics.  -->
+<!-- 
+Currently, I am currently a research fellow in the Division of Nephrology at the
+University of California, San Francisco. I received my A.B. from Dartmouth College in 2010 where I majored in chemistry and minored in linguistics. I received my M.D. from the
+University of Massachusetts Medical School in 2014, then completed residency training 
+in internal medicine at California Pacific Medical Center in San Francisco, CA
+in 2017. I completed clinical nephrology fellowship and a Master's degree in Clinical Research at the University of California, San Francisco. 
+
+My research centers on studying patterns in chronic kidney disease care delivery using large datasets. With the growing use of clinical prediction models to guide clinical care, my focus is on examining and quantifying the potential impact of this approach for clinical effectiveness and healthcare disparities.
+-->
