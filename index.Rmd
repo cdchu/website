@@ -1,12 +1,13 @@
 ---
-title: ""
+title: " "
+pagetitle: "CC"
 ---
 
 This site is empty.
 
 <!-- 
 Currently, I am currently a research fellow in the Division of Nephrology at the
-University of California, San Francisco. My research centers on studying care delivery patterns in chronic kidney disease using large datasets. With the growing application of clinical prediction models to guide clinical care and right-size specialty resources, I focus on examining and quantifying the potential impact of clinical prediction for clinical effectiveness, resource utilization, and health and healthcare disparities.
+University of California, San Francisco. My research centers on studying care delivery patterns in chronic kidney disease using large datasets. With the growing application of clinical prediction models to guide clinical care and rjight-size specialty resources, I focus on examining the potential impact of prediction for clinical effectiveness, resource utilization, and health and healthcare disparities.
 
 I received my A.B. from Dartmouth College in 2010 where I majored in chemistry and minored in linguistics. After obtaining my M.D. from the University of Massachusetts Medical School in 2014, I completed residency in internal medicine at California Pacific Medical Center in San Francisco, CA in 2017. I subsequently came to the University of California, San Francisco for clinical nephrology fellowship and obtained a Master's in Clinical Research from the UCSF Department of Epidemiology and Biostatistics.
 -->

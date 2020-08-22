@@ -1,5 +1,6 @@
 ---
-title: "Rtips"
+title: " "
+pagetitle: "pagetitle"
 ---
 
 ```{r setup, include=FALSE}
