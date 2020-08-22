@@ -1,6 +1,6 @@
 ---
 title: " "
-pagetitle: "pagetitle"
+pagetitle: "CC"
 ---
 
 ```{r setup, include=FALSE}

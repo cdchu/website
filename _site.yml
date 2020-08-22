@@ -1,4 +1,4 @@
-name: "personal-website"
+name: "Chi Chu"
 output_dir: "."
 navbar:
   title: "CC"
@@ -15,6 +15,8 @@ navbar:
   #  href: https://twitter.com/cdchu
   #- icon: ai-orcid ai-lg
   #  href: https://orcid.org/0000-0002-6069-1507
+  #- icon: ai-google-scholar ai-lg
+  #  href: https://scholar.google.com/citations?user=n0kAlXkAAAAJ&hl=en
       
 output:
   html_document:

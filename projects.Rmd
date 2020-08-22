@@ -3,3 +3,18 @@ title: " "
 pagetitle: "CC"
 ---
 
+
+<!-- 
+
+A full list of publications is available on [Google scholar](https://scholar.google.com/citations?user=n0kAlXkAAAAJ&hl=en&oi=ao).
+
+### Selected Publications
+**Chu CD**, Tuot DS, Harrison JD, Duong J, Luxenberg A, Khanna RR. Completeness and quality of text paging for subspecialty consult requests. Postgrad Med J. 2020 Aug 20. PMID: 32820085.
+
+Tummalapalli SL, **Chu CD**, Tuot DS. Avoiding Overuse of Venipuncture and Laboratory Testing in Hospitalized Patients on Hemodialysis. J Patient Saf. 2020 Jun 19. PMID: 32569100.
+
+**Chu CD**, McCulloch CE, Banerjee T, Pavkov ME, Burrows NR, Gillespie BW, Saran R, Shlipak MG, Powe NR, Tuot DS. CKD Awareness Among US Adults by Future Risk of Kidney Failure. Am J Kidney Dis. 2020 Apr 15. PMID: 32305206.
+   
+Lee J, **Chu C**, Guzman D, Fontil V, Velasquez A, Powe NR, Tuot DS. Albuminuria Testing by Race and Ethnicity among Patients with Hypertension with and without Diabetes. Am J Nephrol. 2019; 50(1):48-54. PMID: 31167180. 
+
+-->
